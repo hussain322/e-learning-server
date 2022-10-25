@@ -1,0 +1,68 @@
+[
+  {
+    "id": "01",
+    "title": "Learn Full Stack Web Development from E-Learning",
+    "img": "img link here",
+    "description": "This is Full Stack Web Development Course for Absolute Beginners 2022. 22 hours video covering all the major topics of web development. Become a full-stack web developer from this complete course from e-learning for mastering web development in 2022. Learn the fundamentals to build a strong foundation in web development. Tune into this course till the end to cover and clear all your basics and become a full-stack web developer TODAY",
+    "instructor": "Mir Hussain",
+    "ratings": 4.7,
+    "language": "Bengali",
+    "level": "Beginner",
+    "videoDuration": "22 hours"
+  },
+  {
+    "id": "02",
+    "title": "Tailwind Complete Course For Beginner to Advanced - 2022",
+    "img": "img link here",
+    "description": "In this course, we will look at Tailwind CSS in detail. we will look at all the basics and advanced concepts of tailwind. Tailwind is different from other frameworks, such as Bootstrap and foundation, because it is built on a new way of building user interfaces using a utility-first CSS classes structure.",
+    "instructor": "Asif Iqbal",
+    "ratings": 4.6,
+    "language": "Bengali",
+    "level": "Beginner to Advanced",
+    "videoDuration": "16 hours"
+  },
+  {
+    "id": "03",
+    "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+    "img": "img link here",
+    "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one! JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world.That's why you want to learn JavaScript too. And you came to the right place!",
+    "instructor": "Rokibul Hasan Rokib",
+    "ratings": 4.7,
+    "language": "Bengali",
+    "level": "Basic to Advanced",
+    "videoDuration": "13 hours"
+  },
+  {
+    "id": "04",
+    "title": "The Complete ReactJs Course - Basics to Advanced [2022]",
+    "img": "img link here",
+    "description": "React JS is gaining rapid popularity. In a very short time, it has become the most widely accepted web development JavaScript library. This is the right time for you to learn and add React JS to your skill set and excel in your career.This course is designed in a way that anyone can understand the journey from the basics to advanced concepts of React with simple explanations by the instructor along with hands-on assignments and projects.",
+    "instructor": "Abdullah Al Fahim",
+    "ratings": 4.5,
+    "language": "Bengali",
+    "level": "Basic to Advanced",
+    "videoDuration": "18 hours"
+  },
+  {
+    "id": "05",
+    "title": "Learn Vue.js - Full Course for Beginners",
+    "img": "img link here",
+    "description": "Learn to use Vue.js in this full course for beginners from Gwen Faraday. Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications. First, you will learn the basics of Vue.js. Then, you will see how to create two projects using Vue.js. By the end of the course, you will be able to start using Vue.js in your own projects.",
+    "instructor": "Mostofa Labib",
+    "ratings": 4.5,
+    "language": "Bengali",
+    "level": "basic",
+    "videoDuration": "12 hours"
+  },
+  {
+    "id": "06",
+    "title": "Learn Python Programming Course [2022] From E-Learning",
+    "img": "img link here",
+    "description": "Python is considered one of the most popular programming languages in the world and it is only growing in popularity. It's a great first language to learn. This complete Python course is for beginners. You don’t need any previous programming experience to follow along and all you need to code in Python is a web browser. In this course I will teach you all the core aspects of the Python programming language and I will simplify the more complex topics.",
+    "instructor": "Aryan Jaman",
+    "ratings": 4.5,
+    "language": "Bengali",
+    "level": "Beginner",
+    "videoDuration": "19 hours"
+  }
+]
